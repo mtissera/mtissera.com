@@ -11,7 +11,7 @@ const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "direction": "modular",
   "language": "en",
   "font": "serif",
-  "theme": "light",
+  "theme": "dark",
   "logo": "mt"
 }/*EDITMODE-END*/;
 
